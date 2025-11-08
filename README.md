@@ -30,5 +30,5 @@ The workflow demonstrates scalable data processing and efficient ML modeling in 
 3. Run each cell sequentially to reproduce the results
 
 ## 📬 Contact
-For questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gangaram-pandey/) or leave a comment in the repository.
+https://www.linkedin.com/in/ganga-ram-pandey-9b3880124
 
